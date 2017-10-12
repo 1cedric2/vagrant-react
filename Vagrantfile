@@ -86,7 +86,5 @@ Vagrant.configure(2) do |config|
     npm install -g webpack
     npm install
     npm shrinkwrap --dev
-
-    npm install js-md5
   SHELL
 end

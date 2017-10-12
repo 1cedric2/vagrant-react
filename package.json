@@ -1,5 +1,5 @@
 {
-  "name": "vagrant-react-webpack",
+  "name": "vagrant-react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "JS",
     "Webpack"
   ],
-  "author": "",
+  "author": "Jakub Satnik",
   "license": "GPL-3.0",
   "devDependencies": {
     "autoprefixer": "^6.3.3",
