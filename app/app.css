@@ -1,0 +1,30 @@
+* {
+    font-size: 40px;
+    font-family: '_sans';
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    left:0; right:0; top:0; bottom: 0;
+    margin: auto;
+    
+    font-size: 20px;
+}
+input {
+    text-align: center;
+    font-size: 30px;
+}
+.shadow {
+    text-shadow: 1px 1px 0px rgba(255,255,255,0.5);
+}
+
+.result, label {
+    color: #ffffff;
+    margin-top: 20px;
+    mix-blend-mode: difference;
+}
