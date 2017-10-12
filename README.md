@@ -42,3 +42,5 @@ To run the Webpack Dev Server, you will want to move into the aforementioned sha
         npm start
 
 Once you have the Webpack Dev Server up and running, you can jump over to your browser and visit <span style="color:blue">*localhost:8881*</span> and see that appication is running!
+
+![React App](https://media-api.atlassian.io/file/d076010b-ca2f-413a-93a6-9b0f1edd78a4/image?mode=full-fit&client=0b92a718-239d-4d4d-a673-895d4daaa0a9&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIwYjkyYTcxOC0yMzlkLTRkNGQtYTY3My04OTVkNGRhYWEwYTkiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpmaWxlOmQwNzYwMTBiLWNhMmYtNDEzYS05M2E2LTliMGYxZWRkNzhhNCI6WyJyZWFkIl19LCJleHAiOjE1MDc4MzA2NTksIm5iZiI6MTUwNzgyNzI5OX0.t8NdLWK3K3pB-Yf4fHMxFgElwkfHe-eIjCqSoH-30yI "React App")
